@@ -8,7 +8,7 @@ The backend is built with Express.js, the database is managed using the Mongoose
 Clone the project
 
 ```bash
-  git clone https://
+  git clone https://github.com/faukiofficial/event-ticket-booking-backend.git
 ```
 
 Go to the project directory
