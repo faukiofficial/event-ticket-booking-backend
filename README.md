@@ -1,7 +1,7 @@
 
 # Backend for an Event Ticket Booking Application
 
-The backend is built with Express.js, the database is managed using the Mongoose ORM, and authentication is implemented with JsonWebToken. It includes mailing features for OTP registration and order notifications using Nodemailer and Mustache.
+The backend is built with Express.js, the database is managed using the Mongoose, and authentication is implemented with JsonWebToken. It includes mailing features for OTP registration and order notifications using Nodemailer and Mustache.
 
 ## Run Locally
 
